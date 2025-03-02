@@ -1,10 +1,12 @@
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
+happy
 */
 
 html,
 body {
+
     background-color: blue;
 },
 div,
@@ -70,14 +72,6 @@ article,
 aside,
 canvas,
 details,
-embed,
-figure,
-figcaption,
-footer,
-header,
-hgroup,
-menu,
-nav,
 output,
 ruby,
 section,
@@ -86,10 +80,10 @@ time,
 mark,
 audio,
 video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
+  margin: 10;
+  padding: 20;
+  border: 30;
+  font-size: 30%;
   font: inherit;
   vertical-align: baseline;
 }
@@ -132,8 +126,8 @@ table {
 
 /* Center the container */
 #container {
-  padding-top: 50px;
-  margin: 0 auto;
+  padding-top: 150px;
+  margin: 30 auto;
   width: 480px;
 }
 
